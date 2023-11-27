@@ -1,0 +1,67 @@
+*{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Serif', serif;
+font-family: 'Work Sans', sans-serif;
+}
+
+.d-item{
+    height: 500px;
+}
+
+.d-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+
+.container{
+    height: 300px;
+}
+
+.container .historia-concepcion{
+    display: flex;
+}
+
+.container .historia-concepcion img{
+    height: auto;
+    object-fit: cover;
+}
+
+.container .tigre-amalfi{
+    display: flex;
+}
+
+.container .nav{
+    width: 100%;
+    display: flex;
+}
+
+.container .nav img{
+    width: 33.3%;
+    padding: 21px;
+}
+
+.container .galery{
+    width: 100%;
+    display: flex;
+}
+
+.container .galery img{
+    width: 33.3%;
+    padding: 21px;
+    object-fit: cover;
+}
+
+.container .destinos{
+    display: flex;
+}
+ 
+.container .destinos .card{
+    margin: 21px;
+    
+}
+.container .contacto iframe{
+    align-items: center;
+}
